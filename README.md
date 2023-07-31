@@ -1,2 +1,2 @@
-# Questions-and-Solutions
-This repository is all about different type of solutions of data analytics by using Python Programming.
+# Projects
+This repository is all about different types of projects of data analytics and business intelligence using Python and tableau Programming.
