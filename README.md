@@ -1,6 +1,8 @@
 # Projects
 This repository is all about different types of projects of data science using Python.
 projects:
+
+         
          1. TITANIC SURVIVAL PREDICTION
          
          2. SALES PREDICTION USING PYTHON
