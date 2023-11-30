@@ -1,5 +1,5 @@
 # Projects
-This repository is all about different types of projects of data science using Python.
+This repository is all about different types of projects of data science using Python for different approaches like regression and classification.
 projects:
          
          1. PREDICTING EARTH QUACK DAMAGE IN NEPAL
@@ -10,8 +10,5 @@ projects:
          
          4. STAKEHOLDER QUESTIONS AND THEIR ANSWERS
          
-         5. TRAFFIC SOLUTION ( Tableau Project )
          
-         6. GOOGLE FIBER  ( Tableau Project  )
-         
-where I used my data analytics and Data science skills to achieve high accuracy of machine learning models.
+where I used my machine learning and Data science skills to achieve high accuracy of machine learning models.
